@@ -1,0 +1,127 @@
+\begin{thebibliography}{10}
+
+\bibitem{arfken2011mathematical}
+George~B Arfken, Hans~J Weber, and Frank~E Harris.
+\newblock {\em Integral Transformations}.
+\newblock Academic press, 2011.
+
+\bibitem{barber2002solid}
+JR~Barber.
+\newblock Solid mechanics and its applications, elasticity, 2002.
+
+\bibitem{barros2017dft}
+Francisco Barros, Pedro~J Sousa, Paulo~J Tavares, and Pedro~MGP Moreira.
+\newblock A dft-based method for 3d digital image correlation.
+\newblock {\em Procedia Structural Integrity}, 5:1260--1266, 2017.
+
+\bibitem{beets2000super}
+Kristof Beets and Dave Barron.
+\newblock Super-sampling anti-aliasing analyzed.
+\newblock 2000.
+
+\bibitem{apertureProblem}
+Marc~D. Binder, Nobutaka Hirokawa, and Uwe Windhorst, editors.
+\newblock {\em Aperture Problem}.
+\newblock Springer Berlin Heidelberg, Berlin, Heidelberg, 2009.
+
+\bibitem{bing2006performance}
+Pan Bing, Xie Hui-Min, Xu~Bo-Qin, and Dai Fu-Long.
+\newblock Performance of sub-pixel registration algorithms in digital image
+  correlation.
+\newblock {\em Measurement Science and Technology}, 17(6):1615, 2006.
+
+\bibitem{bourne2010spatial}
+Roger Bourne.
+\newblock The spatial and frequency domains.
+\newblock In {\em Fundamentals of Digital Imaging in Medicine}, pages 55--86.
+  Springer, 2010.
+
+\bibitem{zhangtut}
+Wilhelm Burger.
+\newblock Zhang’s camera calibration algorithm: In-depth tutorial and
+  implementation.
+\newblock Technical Report HGB16-05, University of Applied Sciences Upper
+  Austria, School of Informatics, Communications and Media, Dept. of Digital
+  Media, Hagenberg, Austria, May 2016.
+
+\bibitem{gilat2004matlab}
+Amos Gilat.
+\newblock {\em MATLAB: An introduction with Applications}.
+\newblock John Wiley \& Sons, 2004.
+
+\bibitem{luong1997self}
+Q-T Luong and Olivier~D Faugeras.
+\newblock Self-calibration of a moving camera from point correspondences and
+  fundamental matrices.
+\newblock {\em International Journal of computer vision}, 22(3):261--289, 1997.
+
+\bibitem{malah1976dft}
+D~Malah and M~Botbol.
+\newblock Dft interpolation kernels and error bounds.
+\newblock {\em Computers \& Electrical Engineering}, 3(2):209--213, 1976.
+
+\bibitem{michell1899direct}
+JH~Michell.
+\newblock On the direct determination of stress in an elastic solid, with
+  application to the theory of plates.
+\newblock {\em Proceedings of the London Mathematical Society}, 1(1):100--124,
+  1899.
+
+\bibitem{panfast}
+B~Pan, K~Li, and W~Tong.
+\newblock Fast, robust and accurate digital image correlation calculation
+  without redundant computations.
+\newblock {\em Experimental Mechanics}, 53(7):1277--1289, 2013.
+
+\bibitem{pan2016performance}
+Zhiwei Pan, Wei Chen, Zhenyu Jiang, Liqun Tang, Yiping Liu, and Zejia Liu.
+\newblock Performance of global look-up table strategy in digital image
+  correlation with cubic b-spline interpolation and bicubic interpolation.
+\newblock {\em Theoretical and Applied Mechanics Letters}, 6(3):126--130, 2016.
+
+\bibitem{poissant2010novel}
+J~Poissant and F~Barthelat.
+\newblock A novel “subset splitting” procedure for digital image
+  correlation on discontinuous displacement fields.
+\newblock {\em Experimental mechanics}, 50(3):353--364, 2010.
+
+\bibitem{DLTnorm}
+HI~Richard.
+\newblock In defence of the 8-point algorithm.
+\newblock In {\em Proceedings of the 5th International Conference on Computer
+  Vision}, pages 1064--1070. Cambridge: IEEE Computer Science Press, 1995.
+
+\bibitem{sutton2009image}
+M.A. Sutton, J.J. Orteu, and H.~Schreier.
+\newblock {\em Image Correlation for Shape, Motion and Deformation
+  Measurements: Basic Concepts,Theory and Applications}.
+\newblock Springer US, 2009.
+
+\bibitem{tsai1987versatile}
+Roger Tsai.
+\newblock A versatile camera calibration technique for high-accuracy 3d machine
+  vision metrology using off-the-shelf tv cameras and lenses.
+\newblock {\em IEEE Journal on Robotics and Automation}, 3(4):323--344, 1987.
+
+\bibitem{wei1994implicit}
+Guo-Qing Wei and Song De~Ma.
+\newblock Implicit and explicit camera calibration: Theory and experiments.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  16(5):469--480, 1994.
+
+\bibitem{williams1997stress}
+ML~Williams.
+\newblock On the stress distribution at the base of a stationary crack.
+\newblock 1997.
+
+\bibitem{yates2009quantifying}
+JR~Yates, M~Zanganeh, D~Asquith, and YH~Tai.
+\newblock Quantifying crack tip displacement fields: Tstress and ctoa.
+\newblock In {\em CP2009}, 2009.
+
+\bibitem{emerging}
+Zhengyou Zhang.
+\newblock {\em Camera Calibration}.
+\newblock Prentice Hall PTR, 2004.
+
+\end{thebibliography}

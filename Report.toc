@@ -1,0 +1,79 @@
+\contentsline {chapter}{Contents}{3}
+\contentsline {chapter}{List of Figures}{6}
+\contentsline {chapter}{\numberline {1}Introduction}{8}
+\contentsline {section}{\numberline {1.1}Project background}{8}
+\contentsline {section}{\numberline {1.2}Project motivation}{10}
+\contentsline {section}{\numberline {1.3}Objectives}{12}
+\contentsline {section}{\numberline {1.4}Contents}{12}
+\contentsline {chapter}{\numberline {2}Literature review}{15}
+\contentsline {section}{\numberline {2.1}Digital cameras}{15}
+\contentsline {section}{\numberline {2.2}Homogeneous coordinates}{15}
+\contentsline {section}{\numberline {2.3}Camera optics}{16}
+\contentsline {subsection}{\numberline {2.3.1}Circle of confusion}{18}
+\contentsline {subsection}{\numberline {2.3.2}Depth of field}{19}
+\contentsline {subsection}{\numberline {2.3.3}Field of view}{20}
+\contentsline {subsection}{\numberline {2.3.4}Front image plane model}{21}
+\contentsline {section}{\numberline {2.4}Coordinate systems}{21}
+\contentsline {subsection}{\numberline {2.4.1}World to camera coordinate system}{22}
+\contentsline {subsection}{\numberline {2.4.2}Camera and image plane coordinates}{22}
+\contentsline {subsection}{\numberline {2.4.3}Image plane and sensor coordinates}{23}
+\contentsline {subsection}{\numberline {2.4.4}World to sensor coordinates}{24}
+\contentsline {section}{\numberline {2.5}Distortion}{25}
+\contentsline {subsection}{\numberline {2.5.1}Radial}{25}
+\contentsline {section}{\numberline {2.6}Calibration}{26}
+\contentsline {subsection}{\numberline {2.6.1}Inverse problem}{26}
+\contentsline {subsection}{\numberline {2.6.2}Calibration plate}{27}
+\contentsline {subsection}{\numberline {2.6.3}Homography}{27}
+\contentsline {subsection}{\numberline {2.6.4}Estimating homography with direct linear transformation}{28}
+\contentsline {subsubsection}{Direct linear transformation normalisation}{29}
+\contentsline {subsection}{\numberline {2.6.5}Absolute conic}{30}
+\contentsline {subsection}{\numberline {2.6.6}Constraints on intrinsic parameters}{32}
+\contentsline {subsection}{\numberline {2.6.7}Intrinsic parameters and the absolute conic}{33}
+\contentsline {subsection}{\numberline {2.6.8}Distortion in Calibration}{34}
+\contentsline {subsection}{\numberline {2.6.9}Non-linear optimisation}{36}
+\contentsline {section}{\numberline {2.7}Correspondence problem}{37}
+\contentsline {subsection}{\numberline {2.7.1}Speckle pattern}{38}
+\contentsline {section}{\numberline {2.8}Correlation}{38}
+\contentsline {subsection}{\numberline {2.8.1}Warp function}{38}
+\contentsline {subsection}{\numberline {2.8.2}Correlation criteria}{40}
+\contentsline {subsubsection}{Cross-Correlation}{40}
+\contentsline {subsubsection}{Sum of Squared Difference}{41}
+\contentsline {subsubsection}{Relation between ZNCC and ZNSSD}{41}
+\contentsline {subsection}{\numberline {2.8.3}Interpolation}{42}
+\contentsline {subsection}{\numberline {2.8.4}Optimisation and the correlation criterion}{45}
+\contentsline {chapter}{\numberline {3}Optimisation}{47}
+\contentsline {section}{\numberline {3.1}Newton-Raphson}{47}
+\contentsline {subsection}{\numberline {3.1.1}Modified Newton-Raphson}{49}
+\contentsline {subsection}{\numberline {3.1.2}Computing the Jacobian and Hessian}{53}
+\contentsline {section}{\numberline {3.2}Gauss-Newton}{55}
+\contentsline {subsection}{\numberline {3.2.1}Forward additive}{56}
+\contentsline {subsection}{\numberline {3.2.2}Inverse compositional}{58}
+\contentsline {subsection}{\numberline {3.2.3}Subset splitting}{59}
+\contentsline {subsection}{\numberline {3.2.4}Particle swarm optimisation}{62}
+\contentsline {chapter}{\numberline {4}Synthetic validation}{64}
+\contentsline {section}{\numberline {4.1}Precision and accuracy}{64}
+\contentsline {section}{\numberline {4.2}Synthetic images}{65}
+\contentsline {subsection}{\numberline {4.2.1}Generating synthetic images}{66}
+\contentsline {subsubsection}{Stochastic sampling}{68}
+\contentsline {subsubsection}{Speckle function}{70}
+\contentsline {subsection}{\numberline {4.2.2}Displacement fields}{72}
+\contentsline {subsubsection}{Plate with hole}{72}
+\contentsline {subsubsection}{Plate with crack}{73}
+\contentsline {chapter}{\numberline {5}Experimental validation}{75}
+\contentsline {section}{\numberline {5.1}Experimental plan}{75}
+\contentsline {subsection}{\numberline {5.1.1}Equipment}{76}
+\contentsline {subsection}{\numberline {5.1.2}Specimens}{76}
+\contentsline {subsubsection}{Tension specimen with hole}{76}
+\contentsline {subsubsection}{Modified Arcan specimen}{77}
+\contentsline {subsection}{\numberline {5.1.3}Speckle patterns}{79}
+\contentsline {chapter}{\numberline {6}Results}{80}
+\contentsline {section}{\numberline {6.1}Part A}{80}
+\contentsline {section}{\numberline {6.2}Part B}{82}
+\contentsline {section}{\numberline {6.3}Part C}{84}
+\contentsline {chapter}{\numberline {7}Conclusion}{86}
+\contentsline {chapter}{Bibliography}{87}
+\contentsline {chapter}{Appendices}{90}
+\contentsline {chapter}{\numberline {A}Code for synthetic image generation}{91}
+\contentsline {chapter}{\numberline {B}Displacement fields}{96}
+\contentsline {section}{\numberline {B.1}Plate with hole}{96}
+\contentsline {section}{\numberline {B.2}Plate with crack}{97}

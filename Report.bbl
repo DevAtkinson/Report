@@ -1,0 +1,200 @@
+\begin{thebibliography}{10}
+
+\bibitem{ASTME8}
+ASTM E8 /~E8M 16a.
+\newblock Standard test methods for tension testing of metallic materials.
+\newblock Technical report, ASTM, West Conshohocken, PA, 2016.
+
+\bibitem{ASTME399}
+ASTM~E399 17.
+\newblock Standard test method for linear-elastic plane-strain fracture
+  toughness kic of metallic materials.
+\newblock Technical report, ASTM, West Conshohocken, PA, 2017.
+
+\bibitem{abdel1971direct}
+YI~Abdel-Aziz.
+\newblock Direct linear transformation from comparator coordinates into object
+  space in close-range photogrammetry.
+\newblock In {\em Proceedings of the ASP Symposium on Close-Range
+  Photogrammetry, 1971}, pages 1--18. American Society of Photogrammetry, 1971.
+
+\bibitem{amiot2013assessment}
+Fabien Amiot, Michel Bornert, Pascal Doumalin, J-C Dupr{\'e}, Marina Fazzini,
+  J-J Orteu, Christophe Poil{\^a}ne, Laurent Robert, Ren{\'e} Rotinat, Evelyne
+  Toussaint, et~al.
+\newblock Assessment of digital image correlation measurement accuracy in the
+  ultimate error regime: main results of a collaborative benchmark.
+\newblock {\em Strain}, 49(6):483--496, 2013.
+
+\bibitem{astm2012standard}
+ASTM.
+\newblock Standard test method for linear-elastic plane strain fracture
+  toughness kic of metallic materials.
+\newblock {\em E 399-12}, 2012.
+
+\bibitem{lucasUnifying}
+S.~Baker and I.~Matthews.
+\newblock {\em Lucas-Kanade 20 Years on: A Unifying Framework}.
+\newblock Number pt. 1 in Technical report. Carnegie Mellon University, The
+  Robotics Institute, 2002.
+
+\bibitem{banks1986compact}
+Leslie Banks-Sills and Mircea Arcan.
+\newblock A compact mode ii fracture specimen.
+\newblock In {\em Fracture Mechanics: Seventeenth Volume}. ASTM International,
+  1986.
+
+\bibitem{barber2002solid}
+JR~Barber.
+\newblock Solid mechanics and its applications, elasticity, 2002.
+
+\bibitem{beets2000super}
+Kristof Beets and Dave Barron.
+\newblock Super-sampling anti-aliasing analyzed.
+\newblock 2000.
+
+\bibitem{bing2006performance}
+Pan Bing, Xie Hui-Min, Xu~Bo-Qin, and Dai Fu-Long.
+\newblock Performance of sub-pixel registration algorithms in digital image
+  correlation.
+\newblock {\em Measurement Science and Technology}, 17(6):1615, 2006.
+
+\bibitem{blondin2009particle}
+James Blondin.
+\newblock Particle swarm optimization: A tutorial.
+\newblock {\em Availaible from: http://cs. armstrong. edu/saad/csci8100/pso
+  tutorial. pdf}, 2009.
+
+\bibitem{zhangtut}
+Wilhelm Burger.
+\newblock Zhang’s camera calibration algorithm: In-depth tutorial and
+  implementation.
+\newblock Technical Report HGB16-05, University of Applied Sciences Upper
+  Austria, School of Informatics, Communications and Media, Dept. of Digital
+  Media, Hagenberg, Austria, May 2016.
+
+\bibitem{chevalier2001digital}
+Luc Chevalier, Sylvain Calloch, Fran{\c{c}}ois Hild, and Yann Marco.
+\newblock Digital image correlation used to analyze the multiaxial behavior of
+  rubber-like materials.
+\newblock {\em European Journal of Mechanics-A/Solids}, 20(2):169--187, 2001.
+
+\bibitem{chiang2008micro}
+Fu-Pen Chiang.
+\newblock Micro-/nano-speckle method with applications to materials, tissue
+  engineering and heart mechanics.
+\newblock {\em Strain}, 44(1):27--39, 2008.
+
+\bibitem{astm2009standard}
+ASTM American~Society for Testing and Materials.
+\newblock {\em Standard test methods for tension testing of metallic
+  materials}.
+\newblock ASTM international, 2009.
+
+\bibitem{gilat2004matlab}
+Amos Gilat.
+\newblock {\em MATLAB: An introduction with Applications}.
+\newblock John Wiley \& Sons, 2004.
+
+\bibitem{huchzermeyer2017measuring}
+Richard~Lynn Huchzermeyer.
+\newblock {\em Measuring mechanical properties using digital image correlation:
+  extracting tensile and fracture properties from a single sample.}
+\newblock PhD thesis, Stellenbosch: Stellenbosch University, 2017.
+
+\bibitem{lucas1981iterative}
+Bruce~D Lucas, Takeo Kanade, et~al.
+\newblock An iterative image registration technique with an application to
+  stereo vision.
+\newblock 1981.
+
+\bibitem{luong1997self}
+Q-T Luong and Olivier~D Faugeras.
+\newblock Self-calibration of a moving camera from point correspondences and
+  fundamental matrices.
+\newblock {\em International Journal of computer vision}, 22(3):261--289, 1997.
+
+\bibitem{michell1899direct}
+JH~Michell.
+\newblock On the direct determination of stress in an elastic solid, with
+  application to the theory of plates.
+\newblock {\em Proceedings of the London Mathematical Society}, 1(1):100--124,
+  1899.
+
+\bibitem{orteu2006speckle}
+Jean-Jos{\'e} Orteu, Dorian Garcia, Laurent Robert, and Florian Bugarin.
+\newblock A speckle texture image generator.
+\newblock In {\em Speckle06: speckles, from grains to flowers}, volume 6341,
+  page 63410H. International Society for Optics and Photonics, 2006.
+
+\bibitem{panfast}
+B~Pan, K~Li, and W~Tong.
+\newblock Fast, robust and accurate digital image correlation calculation
+  without redundant computations.
+\newblock {\em Experimental Mechanics}, 53(7):1277--1289, 2013.
+
+\bibitem{pan2008study}
+Bing Pan, Huimin Xie, Zhaoyang Wang, Kemao Qian, and Zhiyong Wang.
+\newblock Study on subset size selection in digital image correlation for
+  speckle patterns.
+\newblock {\em Optics express}, 16(10):7037--7048, 2008.
+
+\bibitem{pan2016performance}
+Zhiwei Pan, Wei Chen, Zhenyu Jiang, Liqun Tang, Yiping Liu, and Zejia Liu.
+\newblock Performance of global look-up table strategy in digital image
+  correlation with cubic b-spline interpolation and bicubic interpolation.
+\newblock {\em Theoretical and Applied Mechanics Letters}, 6(3):126--130, 2016.
+
+\bibitem{poissant2010novel}
+J~Poissant and F~Barthelat.
+\newblock A novel “subset splitting” procedure for digital image
+  correlation on discontinuous displacement fields.
+\newblock {\em Experimental mechanics}, 50(3):353--364, 2010.
+
+\bibitem{DLTnorm}
+HI~Richard.
+\newblock In defence of the 8-point algorithm.
+\newblock In {\em Proceedings of the 5th International Conference on Computer
+  Vision}, pages 1064--1070. Cambridge: IEEE Computer Science Press, 1995.
+
+\bibitem{sutton2009image}
+M.A. Sutton, J.J. Orteu, and H.~Schreier.
+\newblock {\em Image Correlation for Shape, Motion and Deformation
+  Measurements: Basic Concepts,Theory and Applications}.
+\newblock Springer US, 2009.
+
+\bibitem{tsai1987versatile}
+Roger Tsai.
+\newblock A versatile camera calibration technique for high-accuracy 3d machine
+  vision metrology using off-the-shelf tv cameras and lenses.
+\newblock {\em IEEE Journal on Robotics and Automation}, 3(4):323--344, 1987.
+
+\bibitem{van2018high}
+Melody van Rooyen and Thorsten~Hermann Becker.
+\newblock High-temperature tensile property measurements using digital image
+  correlation over a non-uniform temperature field.
+\newblock {\em The Journal of Strain Analysis for Engineering Design},
+  53(3):117--129, 2018.
+
+\bibitem{wei1994implicit}
+Guo-Qing Wei and Song De~Ma.
+\newblock Implicit and explicit camera calibration: Theory and experiments.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  16(5):469--480, 1994.
+
+\bibitem{williams1997stress}
+ML~Williams.
+\newblock On the stress distribution at the base of a stationary crack.
+\newblock 1997.
+
+\bibitem{yates2009quantifying}
+JR~Yates, M~Zanganeh, D~Asquith, and YH~Tai.
+\newblock Quantifying crack tip displacement fields: Tstress and ctoa.
+\newblock In {\em CP2009}, 2009.
+
+\bibitem{emerging}
+Zhengyou Zhang.
+\newblock {\em Camera Calibration}.
+\newblock Prentice Hall PTR, 2004.
+
+\end{thebibliography}

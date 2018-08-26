@@ -1,0 +1,89 @@
+Background
+Problem-gap lit
+how approach idea-fill gap
+methods used-material examined
+original contribution
+conclusion
+
+Digital Image Correlation (DIC) and Digital Volume Correlation (DVC) have become widely used tools in the field of material science to measure full-field displacement and strain data. However the software packages that are used to perform the analysis are typically designed to use a specific method for interpolation, subset deformation and optimization which are the sub-processes that collectively define the correlation algorithm. This is consistent with how literature presents a correlation algorithm by breaking it down into the specific methods used for these sub-processes. Consequently the software packages offer correlation algorithms that are predefined which restricts the ability of the user to adjust the sub-processes used for the correlation algorithm to suite their needs.
+
+In order to illustrate that the different correlation algorithms arise from using different methods to perform the sub-processes, the Lucas-Kanade and Newton-Raphson optimization algorithms were investigated to create a framework that allows either of them to be used interchangeably with different subset deformation types to perform DIC and DVC. This framework was then used to write the code which is capable of performing DIC analysis using different methods for optimization and subset deformation. This code is then validated by comparing its results to that of a commercial DIC system for synthetic and experimental image sets.
+
+The success of this project will lay down the framework for developing DIC software in which the correlation algorithm is defined by the user selecting the methods to perform the sub-processes allowing the software to be adapted to specific use cases.
+
+
+
+
+
+
+
+
+
+Digital Image Correlation and Digital Volume Correlation have become widely used tools in the field of material science to measure full-field displacement and strain data. However the software packages that are used to perform the analysis are typically designed to use a specific interpolation scheme, warp function and optimization method which are the sub-processes that collectively define the correlation algorithm. This is consistent with how literature generally focuses on a specific warp function, interpolation scheme and optimization method when presenting a correlation algorithm.
+
+This is consistent with how literature presents a correlation algorithm by breaking it down into the specific methods used for these subprocesses
+
+
+
+Digital Image Correlation and Digital Volume Correlation have become widely used tools in the field of material science to measure full-field displacement and strain data. However the software packages that are used to perform the analysis are typically designed to use a specific method for interpolation, subset deformation and optimization, which are the sub-processes that collectively define the correlation algorithm, restricting the ability of the user to adjust the correlation algorithm to suite their needs. This is consistent with how literature presents a correlation algorithm by breaking it down into the specific methods used for these sub-processes.
+
+
+
+Digital Image Correlation (DIC) and Digital Volume Correlation (DVC) have become widely used tools in the field of material science to measure full-field displacement and strain data. However the software packages that are used to perform the analysis are typically designed to use a specific method for interpolation, subset deformation and optimization which are the sub-processes that collectively define the correlation algorithm. This is consistent with how literature presents a correlation algorithm by breaking it down into the specific methods used for these sub-processes. Consequently the software packages offer correlation algorithms that are predefined which restricts the ability of the user to adjust the sub-processes used for the correlation algorithm to suite their needs.
+
+In order to illustrate that the different correlation algorithms arise from using different methods to perform the sub-processes, the Lucas-Kanade and Newton-Raphson optimization algorithms were investigated to create a framework that allows either of them to be used interchangeably with different subset deformation types to perform DIC and DVC. This framework was then used to write the code which is capable of performing DIC analysis using different methods for optimization and subset deformation. This code is then validated by comparing its results to that of a commercial DIC system for synthetic and experimental image sets.
+
+The success of this project will lay down the framework for developing DIC software in which the correlation algorithm is defined by the user selecting the methods to perform the sub-processes allowing the software to be adapted to specific use cases.
+
+
+prove that more adaptable DIC codes can be created by designing the code to interchangeably use different methods for the sub-processes
+
+will lay down the framework for developing DIC software in which the correlation algorithm is defined by the user selecting the methods to perform the sub-processes allowing the software to be adapted to specific use cases
+
+
+create framework
+
+
+
+
+which restricts the control the user has over 
+which restricts the ability of the user to adjust the correlation algorithm to suite their needs.
+
+
+. This is consistent with how literature presents a correlation algorithm by breaking it down into the specific methods used for these sub-processes.
+
+
+
+
+
+generally focuses on a specific warp function, interpolation scheme and optimization method when presenting a correlation algorithm.
+
+However the currently available software packages that are used to perform the analysis offer limited control over the code that performs the correlation.
+which can be linked to how literature  
+
+However the software packages that are used to perform the analysis are typically designed to use a specific interpolation scheme, warp function and optimization method to collectively make up the correlation algorithm.
+
+This is consistent with how literature typically focuses on specific 
+This is consistent with how in literature many correlation algorithms have been presented but they are 
+been presented as a new algorithm even though they are a modification of another algorithm
+
+This is consistent with how literature presents a modification in the warp function of a well known algorithm as a standalone algorithm because the paper is focusing on this new part of the algorithm.
+this allows the paper to have more focus 
+
+why is this a problem - alg not as adaptable/cant trust results as much/
+
+
+However the currently available programs offer limited control over how the correlation is performed in terms of what warp function, interpolation scheme and optimization algorithms are used. This is reflected in 
+
+
+
+
+
+
+
+
+
+codes usually only used one optimization algorithm / interpolation algorithm / limited warp functions / 
+expensive / don't know what goes on in the background (black box)
+if don't have full control of method then cant trust the results.
+when new method is discussed it is discussed in terms of one optimization algorithm - subset splitting

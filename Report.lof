@@ -1,0 +1,32 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces How projective space distorts parallelism present in Euclidean space\relax }}{16}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Illustration of how light rays are manipulated by the lens\relax }}{17}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces The conversion between coordinate systems that occurs when an image is taken \cite {sutton2009image}\relax }}{21}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces The absolute conic and the image of the absolute conic \cite {emerging}\relax }}{31}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces The bicubic interpolation surface\relax }}{43}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces First iteration of golden section search method\relax }}{51}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Second iteration of golden section search method\relax }}{52}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Code for determining the derivatives of the interpolation equation in terms of the WFPs (step 2)\relax }}{54}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Code for determining the Jacobian and Hessian according to Equations 3.28\hbox {} and 3.29\hbox {} (step 1)\relax }}{55}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces How the splitting line divides the pixel of the subset into two groups\relax }}{60}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Flow diagram for the process of generating synthetic images\relax }}{67}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Example of a reference and deformed synthetic image\relax }}{68}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Illustration of the effect of the fill factor and the stochastic sampling technique\relax }}{69}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces The affect that the frequency, $b_k$, and phase shift, $a_k$, of the sinusoid have on the shape and orientation of the resulting speckle. The units of the axes are in pixels, the red line indicates the modified radius according to equation 4.9\hbox {} and the blue line indicates the base radius $R_{k}$. \relax }}{70}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Plate with hole\relax }}{73}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Tension specimen with hole (I will redo this image such that the specimen lies horizontally so that it takes up less space)\relax }}{77}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Arcan components and test setup (these are Matt's images - I will make my own)\relax }}{78}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Reference image for comparison purposes\relax }}{81}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces The distorted image "img01.tiff" which has been corrected for distortions\relax }}{81}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Reference image for comparison purposes\relax }}{83}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces The distorted image "img02.tiff" which has been corrected for distortions\relax }}{83}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Reference image for comparison purposes\relax }}{85}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces The distorted image "img03.tiff" which has been corrected for distortions\relax }}{85}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
